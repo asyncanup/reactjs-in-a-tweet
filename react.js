@@ -1,0 +1,1 @@
+React={Component:function(e){this.props=e},[C="createElement"]:(t,s,...a)=>t.bind?new t(s):(e=document[C](t),(()=>{for(n in s)e[n]=s[n]})(),g(a).map(t=>e[A](t.props?t.render():t.part?t:new Text(t))),e)},A="appendChild",g=(e=>(e=e||[],e.map?e.flatMap(g):[e]))
